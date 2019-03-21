@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Note190315 {
+public class Bj2947 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] lst = new int[5];
